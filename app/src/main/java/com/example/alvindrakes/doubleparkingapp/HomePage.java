@@ -16,6 +16,8 @@ import android.view.MenuItem;
 public class HomePage extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
+    //hello cheng yee
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
