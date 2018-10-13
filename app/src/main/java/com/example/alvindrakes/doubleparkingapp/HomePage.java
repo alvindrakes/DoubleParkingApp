@@ -1,5 +1,6 @@
 package com.example.alvindrakes.doubleparkingapp;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -76,7 +77,8 @@ public class HomePage extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_account) {
-            // Handle the account action
+            Intent i = new Intent(this,AccountPage.class);
+            startActivity(i);
         }  else if (id == R.id.nav_share) {
 
         }
