@@ -21,7 +21,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AccountPage"></activity>
+        <activity
+            android:name=".AccountPage"
+            android:label="Account Page">
+        </activity>
     </application>
 
 </manifest>
