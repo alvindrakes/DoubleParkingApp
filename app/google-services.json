@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "778982931323",
+    "firebase_url": "https://doubleparkingapp-master.firebaseio.com",
+    "project_id": "doubleparkingapp-master",
+    "storage_bucket": "doubleparkingapp-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778982931323:android:b2de0eefb81c71de",
+        "android_client_info": {
+          "package_name": "com.example.alvindrakes.doubleparkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778982931323-m2qrcsov9roja51eu33eac3eiktteapp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alvindrakes.doubleparkingapp",
+            "certificate_hash": "baeea6836ca22cfa963c901875b9b6528901a5c6"
+          }
+        },
+        {
+          "client_id": "778982931323-b970qk35dnd2bjh5rqa9f0a66f6ongjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alvindrakes.doubleparkingapp",
+            "certificate_hash": "0ebddc7ec28e8e5f596db8cc6feaf8b651d95934"
+          }
+        },
+        {
+          "client_id": "778982931323-057b19u927mad9huje5hfkucottg68mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ZOrJ9Q8uVKNfZgj7aXQqfMB3DelGDKE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778982931323-057b19u927mad9huje5hfkucottg68mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -7,4 +7,8 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="car_plate_no">Car Plate No.</string>
 </resources>
